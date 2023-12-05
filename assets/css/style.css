@@ -503,6 +503,7 @@ header .btn-group {
   background: var(--foreground-secondary);
   color: var(--background-secondary);
   padding: 0.6875rem 1.1875rem;
+  margin-top: 15px;
 }
 
 .load-more:hover { background: var(--accent); }
