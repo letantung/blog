@@ -507,7 +507,7 @@ footer .wrapper {
     text-decoration: underline
 }
 
-@media (min-width:550px) {
+@media (min-width:375px) {
     :root {
         --fs-base: 0.90rem
     }
